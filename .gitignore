@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PDF outputs (generated at runtime)
+Surat_Pengantar_*.pdf
+*.pdf
+
+# Original template
+SURAT PENGANTAR RT.docx
+
+# Backup files
+app_backup.py
+nul
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
